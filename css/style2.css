@@ -518,3 +518,7 @@ h2{
     font-size: 2em;
 
 }
+main {
+    padding-top:10px;
+    margin-top:10px;
+}
