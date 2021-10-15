@@ -495,8 +495,8 @@ margin-bottom:10px
 }
 h1{
     font-size: 5em;
-
-
+    margin-bottom : 10px;
+    margin-top: 10px;
 }
 
 
@@ -507,6 +507,12 @@ h1{
     margin: 1rem;
     padding: 0rem;
     width: var(--width-card);
+}
+
+img.main{
+    width:836px; 
+    height:500px;
+
 }
 
 img{
@@ -522,3 +528,4 @@ main {
     padding-top:10px;
     margin-top:10px;
 }
+
