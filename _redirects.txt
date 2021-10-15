@@ -1,0 +1,2 @@
+# Redirects from "/old" to "/new"
+/main2  /
