@@ -529,3 +529,7 @@ main {
     padding-top:10px;
     margin-top:10px;
 }
+body {
+    background-image: url(../jpg/pattern.png);
+    /* Background pattern from Toptal Subtle Patterns */
+}
